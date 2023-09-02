@@ -22,7 +22,7 @@ export class AppComponent {
   clsName = 'c1';
   callFunction(){
     console.log("this is event binding in angular...");
-    console.log("welcome");
+    console.log("welcome to feature-02Sep2023");
   }
 
     call1(){
