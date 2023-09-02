@@ -28,7 +28,7 @@ export class AppComponent {
     call1(){
 
  console.log("this is button test");
- console.log("welcome1");
+ console.log("welcome2");
 
     }
 
